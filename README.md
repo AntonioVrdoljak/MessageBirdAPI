@@ -15,7 +15,7 @@ Parameters to display:
 
 - Node.js installed
 - npm package manager installed
-- MessageBird API credentials (AccessKey)
+- MessageBird API credentials (AccessKey - [info](https://developers.messagebird.com/quickstarts/lookup-overview/))
 
 ### Setup:
 1. Clone this repository.
